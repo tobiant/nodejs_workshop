@@ -1,0 +1,15 @@
+{
+  "name": "ws-05-19",
+  "version": "1.0.0",
+  "description": "boilerplate for workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "app"
+  },
+  "author": "lmr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.6"
+  }
+}
