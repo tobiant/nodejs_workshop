@@ -1,10 +1,10 @@
 {
-  "name": "ws-05-19",
+  "name": "ws-06-19",
   "version": "1.0.0",
   "description": "boilerplate for workshop",
   "main": "index.js",
   "scripts": {
-    "test": "app"
+    "start": "node app"
   },
   "author": "lmr",
   "license": "ISC",
