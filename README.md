@@ -1,4 +1,3 @@
-# nodejs_workshop
-Boilerplate für den 3. Entwicklerworkshop 2019
+# a simple nodejs example 
 
-start app with node app
+start with node app
